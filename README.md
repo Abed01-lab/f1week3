@@ -9,4 +9,4 @@
 * Løsning til opgaven Dom Manipulation and Events ligger i (Hvert opgave ligger i sin egen mappe opkaldt efter opgaven)
 * Løsning til opgaven Getting Started with the fetch-API ligger i fetch data
 ## Friday
-* Løsning til opgaven ligger i Friday mappen
+* Løsning til opgaven ligger i Day2 mappen i FirstTravisProject
